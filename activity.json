@@ -1,11 +1,11 @@
 {
   "name": "my-log",
   "type": "flogo:activity",
-  "ref": "github.com/TIBCOSoftware/flogo-contrib/activity/log",
+  "ref": "github.com/apandurangi/flogolog",
   "version": "0.0.1",
-  "title": "Log Message",
+  "title": "My Log Message",
   "description": "Simple Log Activity",
-  "homepage": "https://github.com/TIBCOSoftware/flogo-contrib/tree/master/activity/log",
+  "homepage": "https://github.com/apandurangi/flogolog",
   "input":[
     {
       "name": "message",
