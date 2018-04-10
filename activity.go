@@ -8,7 +8,7 @@ import (
 )
 
 // activityLog is the default logger for the Log Activity
-var activityLog = logger.GetLogger("activity-flogo-log")
+var activityLog = logger.GetLogger("activity-my-log")
 
 const (
 	ivMessage   = "message"
